@@ -28,7 +28,7 @@ so first step, we need to convert the json file, here is the PHP
 
 # step 2
 upload the converted json file to Shopify store 
-<img src="" />
+<img src="https://github.com/dragon2934/shopify_lottie_animation/blob/main/upload_assets.jpeg" />
 
 
 
@@ -67,7 +67,7 @@ add custom liquid add the page you want
 
 such as
 
-<img src="" />
+<img src="https://github.com/dragon2934/shopify_lottie_animation/blob/main/add_custom_liquid.png" />
 
 
 If you feel my work help you, please buy me a Coffee! Thanks!
